@@ -1,0 +1,3 @@
+INSERT INTO contact (contact_id,contact_name,contact_number,contact_email,user_id) values (101,'Virat Kohli','9876543212','viratkohli@bcci.in',1);
+INSERT INTO contact (contact_id,contact_name,contact_number,contact_email,user_id) values (102,'Dhoni','9122321122','dhoni@csk.in',1);
+INSERT INTO user_info (user_id,user_name,user_email,password,secret) values (1,'Tony','tony123@gmail.com','Tony@123','user001');
